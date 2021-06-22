@@ -12,3 +12,15 @@ document.writeln("</br>")
 document.writeln(true); //benar
 document.writeln("</br>");
 document.writeln(false); //salah
+document.writeln("</br>")
+
+//Tipe data string atau text
+document.writeln("Aldhino maulana");
+document.writeln("</br>");
+document.writeln("SMK INFORMATIKA SUMEDANG");
+document.writeln("</br>")
+
+//Menambah string
+document.writeln("nama : " + "Aldhino maulana");
+document.writeln("</br>");
+document.writeln("sekolah : " + "Smk informatika sumedang");
